@@ -5,6 +5,8 @@ Selfmade watchfaces for HUAWEI WATCH GT 2 (46mm)
 ![Hutao](https://github.com/AngelaCooljx/HUAWEI-WATCH-GT-2_watchface_selfmade/raw/main/Hutao/Hutao.png)
 #### Paimon
 ![Paimon](https://github.com/AngelaCooljx/HUAWEI-WATCH-GT-2_watchface_selfmade/raw/main/Paimon/Paimon.png)
+#### Termoe
+![Termoe](https://github.com/AngelaCooljx/HUAWEI-WATCH-GT-2_watchface_selfmade/raw/main/Termoe/Termoe.png)
 * 目前适配 HUAWEI WATCH GT 2 46mm 版本454*454px分辨率，其他圆形表盘型号自行测试
 * png为项目截图
 * 文件名带"project"结尾的为项目工程文件，可下载华为表盘IDE(Theme Studio)自行修改
