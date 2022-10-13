@@ -17,6 +17,10 @@ Selfmade watchfaces for HUAWEI WATCH GT 2 (46mm)
 ![Kun](https://github.com/AngelaCooljx/HUAWEI-WATCH-GT-2_watchface_selfmade/raw/main/Kun/Kun.png)  
 [点击此处下载](https://github.com/AngelaCooljx/HUAWEI-WATCH-GT-2_watchface_selfmade/raw/main/Kun/Kun.hwt)
   
+  ### MD3
+![MD3](https://github.com/AngelaCooljx/HUAWEI-WATCH-GT-2_watchface_selfmade/raw/main/MD3/MD3.png)  
+[点击此处下载](https://github.com/AngelaCooljx/HUAWEI-WATCH-GT-2_watchface_selfmade/raw/main/MD3/MD3.hwt)
+  
 * 目前适配 HUAWEI WATCH GT 2 46mm 版本454*454px分辨率，其他圆形表盘型号自行测试
 * png为项目截图
 * 文件名带"project"结尾的为项目工程文件，可下载华为表盘IDE(Theme Studio)自行修改
@@ -29,4 +33,4 @@ Selfmade watchfaces for HUAWEI WATCH GT 2 (46mm)
 3. 用 [MiXplorer](https://mixplorer.com/) 、[MT管理器](https://coolapk.com/apk/bin.mt.plus) 或其他文件浏览器授予root权限后进入根目录，找到`/data/data/com.huawei.health/files/watchface/`文件夹，里面有之前缓存的表盘文件夹，进入这个文件夹后里面三项与之前解压出来的三项一致，所以只需要将其替换即可；
 4. 回到华为运动健康APP，重新连接蓝牙后会自动恢复表盘应用，即可替换上第三方表盘。
 ### 方法二：
-- 自行搜索毛子修改版运动健康apk在**非华为手机**导入表盘hwt文件进行安装
+- [4dpa](https://4pda.to/forum/index.php?showtopic=830758) 或其他平台自行搜索修改版运动健康apk在**非华为手机**导入表盘hwt文件进行安装
