@@ -21,6 +21,10 @@ Selfmade watchfaces for HUAWEI WATCH GT 2 (46mm)
 ![MD3](https://github.com/AngelaCooljx/HUAWEI-WATCH-GT-2_watchface_selfmade/raw/main/MD3/MD3.png)  
 [点击此处下载](https://github.com/AngelaCooljx/HUAWEI-WATCH-GT-2_watchface_selfmade/raw/main/MD3/MD3.hwt)
   
+  ### PixelWhite
+![PixelWhite](https://github.com/AngelaCooljx/HUAWEI-WATCH-GT-2_watchface_selfmade/raw/main/PixelWhite/PixelWhite.png)  
+[点击此处下载](https://github.com/AngelaCooljx/HUAWEI-WATCH-GT-2_watchface_selfmade/raw/main/PixelWhite/PixelWhite.hwt)
+  
 * 目前适配 HUAWEI WATCH GT 2 46mm 版本454*454px分辨率，其他圆形表盘型号自行测试
 * png为项目截图
 * 文件名带"project"结尾的为项目工程文件，可下载华为表盘IDE(Theme Studio)自行修改
